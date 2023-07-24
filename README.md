@@ -1,6 +1,6 @@
 # Resumo
 
-Implementar uma API RESTful capaz de se comunicar com aplicações mobile e web.
+Implementar uma API RESTful.
 
 Deverá ser realizado um crud para o seguinte contexto.
 
