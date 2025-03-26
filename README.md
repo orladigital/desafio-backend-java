@@ -1,29 +1,46 @@
-# Resumo
 
-Implementar uma API RESTful.
+# Desafio Técnico Backend
+=====================================
+Bem-vindo ao desafio técnico de backend!
 
-Deverá ser realizado um crud parcial para o seguinte contexto.
+Este desafio tem como objetivo avaliar suas habilidades em desenvolver uma aplicação backend utilizando as melhores práticas e tecnologias atuais. 
+O desafio é dividido em três níveis de dificuldade: Básico, Intermediário e Avançado.
 
-Operações do CRUD a ser implementadas: 
-* Criar
-* Ler
+## Níveis do Desafio
+--------------------
 
-Eu como usuário gostaria de cadastrar `projetos` e cada projeto pode ter N `funcionários` e cada `funcionário` pode ter N `projetos`. 
+* [Básico](basico.md): Implementar uma API RESTful básica com operações de CRUD para gerenciar projetos e funcionários.
+* [Intermediário](intermediario.md): Implementar uma API RESTful com autenticação e autorização, validação de dados e tratamento de erros.
+* [Avançado](avancado.md): Implementar uma API RESTful com deploy utilizando Docker e Kubernetes, logging e documentação da API.
 
-Eu como usuário gostaria de listar projetos com seus respectivos funcionários.
+## Requisitos Gerais
+-------------------
 
-**Atributos obrigátorios para as entidades:**
+* Utilizar Java 11+
+* Utilizar Spring Boot ou Quarkus
+* Utilizar banco de dados relacional (PostgreSQL, MySQL, etc.)
+* Implementar testes unitários e integrados
 
-* Projeto:  (nome, data_criacao)
-* Funcionario: (nome, cpf, email, salario)
+### Avaliação
+------------
+A avaliação será baseada nos seguintes critérios:
 
-# Instruções
+* Boas práticas de Design de API's  
+* Modelagem e boas práticas de banco de dados
+* Implementação dos requisitos do desafio
+* Validaçãos de dados
+* Tratamento de erros
+* Logging
+* Documentação da API
+* Testes unitários e integrados
+* Documentação de execução do projeto
 
-- Usar java 11+
-- Spring Boot ou Quarkus
-- Usar Banco de dados relacional (não usar banco em memória)
-- Documentar execução da aplicação
-- Seguir o padrão RESTful
-- Seguir Normalização do Banco de Dados
-- Realizar testes unitários/integrados
-- Enviar o código para o github
+## Como Enviar o Trabalho
+-------------------------
+
+Por favor, envie o seu trabalho em um repositório do GitHub e compartilhe o link com o avaliador.
+
+## Dúvidas
+---------
+
+Se tiver alguma dúvida ou precisar de ajuda, por favor, não hesite em entrar em contato com o avaliador.
