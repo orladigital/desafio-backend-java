@@ -10,8 +10,7 @@ O desafio é dividido em três níveis de dificuldade: Básico, Intermediário e
 --------------------
 
 * [Básico](basico.md): Implementar uma API RESTful básica com operações de CRUD para gerenciar projetos e funcionários.
-* [Intermediário](intermediario.md): Implementar uma API RESTful com autenticação e autorização, validação de dados e tratamento de erros.
-* [Avançado](avancado.md): Implementar uma API RESTful com deploy utilizando Docker e Kubernetes, logging e documentação da API.
+* [Intermediário](intermediario.md): Implementar uma API RESTful com autenticação e autorização e regras de negócios adicionais.
 
 ## Requisitos Gerais
 -------------------
