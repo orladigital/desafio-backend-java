@@ -1,19 +1,16 @@
-
 # Desafio Técnico Backend
-=====================================
+
 Bem-vindo ao desafio técnico de backend!
 
 Este desafio tem como objetivo avaliar suas habilidades em desenvolver uma aplicação backend utilizando as melhores práticas e tecnologias atuais. 
 O desafio é dividido em três níveis de dificuldade: Básico, Intermediário e Avançado.
 
 ## Níveis do Desafio
---------------------
 
 * [Básico](basico.md): Implementar uma API RESTful básica com operações de CRUD para gerenciar projetos e funcionários.
 * [Intermediário](intermediario.md): Implementar uma API RESTful com autenticação e autorização e regras de negócios adicionais.
 
 ## Requisitos Gerais
--------------------
 
 * Utilizar Java 11+
 * Utilizar Spring Boot ou Quarkus
@@ -21,7 +18,7 @@ O desafio é dividido em três níveis de dificuldade: Básico, Intermediário e
 * Implementar testes unitários e integrados
 
 ### Avaliação
-------------
+
 A avaliação será baseada nos seguintes critérios:
 
 * Boas práticas de Design de API's  
@@ -35,11 +32,9 @@ A avaliação será baseada nos seguintes critérios:
 * Documentação de execução do projeto
 
 ## Como Enviar o Trabalho
--------------------------
 
 Por favor, envie o seu trabalho em um repositório do GitHub e compartilhe o link com o avaliador.
 
 ## Dúvidas
----------
 
 Se tiver alguma dúvida ou precisar de ajuda, por favor, não hesite em entrar em contato com o avaliador.
